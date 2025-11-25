@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2585badad0e4ce544b1b3b95a7589e6b, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  playerName: 
+  username: 
+  password: 
+  typeLogin: 1
+  typeNotSave: 0
+  isGoogleLoggedIn: 0
+  authCode: 
+  coins: 0
+  energy: 0
+  energyVIP: 0
+  index_level: 1
+  isMuteMusic: 0
+  BagSize: 20
+  dataLevel: []
+  dataBag: []
+  dataSanXuat: []
+  tasks: []
+  milestones: []
+  energyValue: 0
+  lastDailyResetDate: 
+  TimeStartGiveCardFree: 0
+  isGiveCardFree: 0
+  sessionTokenKey: 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913638386851",
+    "project_id": "colorfulfarmday",
+    "storage_bucket": "colorfulfarmday.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913638386851:android:e58f2f84de1c0cc78e2316",
+        "android_client_info": {
+          "package_name": "com.ColorFulFarmDay.ColorFulFarmDay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913638386851-p21v9j8cghi5bord51ask3n65anvc6is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx60jApi8hwLghX9t_D9xt_9tDuJ6LTo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913638386851-p21v9j8cghi5bord51ask3n65anvc6is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
