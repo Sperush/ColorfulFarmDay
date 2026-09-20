@@ -180,6 +180,10 @@ public class PlayFabLogin : MonoBehaviour
         }
         return true;
     }
+    public void OpenPanel1(GameObject gameObject)
+    {
+        OpenPanel(gameObject);
+    }
     public void OpenPanel(GameObject gameObject, LoginResult result = null, string sessionToken = null)
     {
         gameObject.SetActive(true);
