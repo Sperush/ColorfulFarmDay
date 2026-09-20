@@ -83,7 +83,7 @@ public class PlayerData : ScriptableObject
         coins = 0;
         energy = 0;
         energyVIP = 0;
-        index_level = 0;
+        index_level = 1;
         isMuteMusic = false;
         BagSize = 0;
         dataLevel = new List<DataLevel>();
